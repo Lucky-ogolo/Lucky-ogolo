@@ -26,8 +26,8 @@ I'm a Data Analyst with a growing passion for transforming raw data into meaninf
 
 ## 🤝 Let’s Connect
   
-  - 💼 LinkedIn
-  - 📧 Email: 
+  - 💼 LinkedIn :www.linkedin.com/in/lucky-ogolo-5352223a5
+  - 📧 Email: luuckyyyy@gmail.com 
   - 🌐 Portfolio:
 
 ---
