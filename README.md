@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Lucky Ogolo- Data Analyst
 
 Welcome to my Github profile!
-I'm a Data Analyst with a growing passion for transforming raw data into meaninful insights that support smarter business decisions with tools like Excel,SQL and Power BI. I enjoy exploring data, building dashboards, and communicating insights clearly and effectively.
+I'm a Data Analyst with a growing passion for transforming raw data into meaningful insights that support smarter business decisions with tools like Excel,SQL and Power BI. I enjoy exploring data, building dashboards, and communicating insights clearly and effectively.
 
 
 ---
