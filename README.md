@@ -8,7 +8,7 @@ I'm a Data Analyst with a growing passion for transforming raw data into meaninf
 
 ## 🔍 About Me
 
-- 🎓 Background in  B.Sc.Ed in Computer Science – University Of Benin, Edo state,Nigeria
+- 🎓 Background in  B.Sc(Ed) in Computer Science – University Of Benin, Edo state,Nigeria
 - 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
 - 🛠️ Tools I Use: Excel, Power BI, SQL, and actively learning python 
 - 🧠 strong interest and hands-on experience solving  real-world problems using data
