@@ -26,7 +26,7 @@ I'm a Data Analyst with a growing passion for transforming raw data into meaning
 
 ## 🤝 Let’s Connect
   
-  - 💼 LinkedIn :www.linkedin.com/in/lucky-ogolo-5352223a5
+  - 💼 LinkedIn :www.linkedin.com/in/lucky-ogolo/
   - 📧 Email: luuckyyyy@gmail.com 
   - 🌐 Portfolio:
 
