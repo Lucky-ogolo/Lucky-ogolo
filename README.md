@@ -22,7 +22,25 @@ I'm a Data Analyst with a growing passion for transforming raw data into meaning
 | Data Cleaning | Excel, Power Query |
 | Business Insights | Dashboards,KPI's, Reporting |
 | Others |	GitHub, Google Sheets, Canva |
+--- 
+## 🗃️Featured Projects
+   # 🍻Susan's Bar Sales Performance
+   This project analyzes **Susan’s Bar sales performance**, comparing business results between **2024 and 2025**
+   🔗[View Project Repository](https://github.com/Lucky-ogolo/Susan-s-Bar-Sales-Performance/blob/faf14919c3aa90cc8f705676038ad1c4bd9e00c4/README.md)
 
+   ⚒️Tools used: Excel    
+   
+# 🧠Brain Tumor Distribution Analysis
+This project analyzes brain tumor patients data to explore patterns
+🔗[View Project Repository](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis/blob/8770e676328dcc16875e1763656e04cc9c9b573c/README.md)
+
+⚒️Tools used: Power BI
+
+# 🫁 Smoking Health Risk Analysis
+This project analyzes smoking behavior and its associated health risks using patient-level data
+🔗[View Project Repository](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/c43de81d1221a98ede9107ed82a93d5299368453/README.md)
+
+⚒️Tools used: Power BI
 
 ## 🤝 Let’s Connect
   
