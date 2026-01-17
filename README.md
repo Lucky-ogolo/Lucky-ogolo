@@ -36,6 +36,13 @@ This project analyzes brain tumor patients data to explore patterns
 
 ⚒️Tools used: Power BI
 
+# ⛑️WHO Ekiti State Polio Vaccination Data Analysis
+This project analyzes polio vaccination campaign data from Ekiti State
+🔗[View Project Repository](https://github.com/Lucky-ogolo/WHO-Polio-vaccination-Analysis/blob/0e4df9375226ae50058ace2340d297ae1deddf79/README.md)
+
+⚒️Tools used: Pgadmin/postgres sql
+
+
 # 🫁 Smoking Health Risk Analysis
 This project analyzes smoking behavior and its associated health risks using patient-level data
 🔗[View Project Repository](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/c43de81d1221a98ede9107ed82a93d5299368453/README.md)
