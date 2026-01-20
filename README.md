@@ -49,6 +49,12 @@ This project analyzes smoking behavior and its associated health risks using pat
 
 ⚒️Tools used: Power BI
 
+# 📚Lola's Bookstore Analysis
+This project is a comprehensive SQL-based analysis of Lola’s Book Store, designed to demonstrate practical MySQL skills using a realistic transactional dataset.
+🔗[View Project Repository](https://github.com/Lucky-ogolo/Lola-s-Book-store-Analysis/blob/9de80653803a831cf203327baca3aeed76bd3742/README.md)
+
+⚒️Tools used: MYSQL
+
 ## 🤝 Let’s Connect
   
   - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
