@@ -51,8 +51,8 @@ This project analyzes smoking behavior and its associated health risks using pat
 
 ## 🤝 Let’s Connect
   
-  - 💼 [LinkedIn](www.linkedin.com/in/lucky-ogolo/)
-  - 📧 [Email](luuckyyyy@gmail.com) 
+  - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
+  - 📧 🔗[Email](luuckyyyy@gmail.com) 
   - 🌐 Portfolio:
 
 ---
