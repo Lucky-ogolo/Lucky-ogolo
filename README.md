@@ -42,7 +42,12 @@ This project analyzes polio vaccination campaign data from Ekiti State
 
 ⚒️Tools used: Pgadmin/postgres sql
 
-
+ # 🏋️‍♂️⛹️‍♀️FitClub Customer Segmentation Dashboard 
+ This project focuses on analyzing and  translating customer data into **actionable insights** around demographics, income segmentation, and customer retention.
+ 
+🔗[View Project Repository](https://github.com/Lucky-ogolo/Fitclub-Customer-Segmentation/blob/da2b4b1215fb2adcab4c78a49399bd94f8b7e366/README.md)
+ ⚒️Tools used: Excel
+ 
 # 🫁 Smoking Health Risk Analysis
 This project analyzes smoking behavior and its associated health risks using patient-level data
 🔗[View Project Repository](https://github.com/Lucky-ogolo/Smoking-Health-Risk-Analysis/blob/c43de81d1221a98ede9107ed82a93d5299368453/README.md)
