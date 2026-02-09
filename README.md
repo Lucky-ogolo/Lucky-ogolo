@@ -66,6 +66,12 @@ This project is a comprehensive SQL-based analysis of Lola’s Book Store, desig
 
 ⚒️Tools used: MYSQL
 
+# 📊 E-Commerce Sales Analysis
+This project is an E-Commerce Sales Analysis Dashboard built in Power BI to analyze sales performance, customer behavior, and revenue trends across time, geography, and products.
+🔗[View Project Repository](https://github.com/Lucky-ogolo/E-commerce-Analysis.git)
+
+⚒️Tools used: PowerBI, Power Point
+
 # Excel Practical Tools & Automation Projects
 This repository contains a set of Excel-based practical projects designed to showcase automation, data organization, and process tracking skills. These projects were created as part of hands-on practice to build a portfolio of realistic business tools 🔗[View projects repo](https://github.com/Lucky-ogolo/Excel-practical-projects.git)
 
