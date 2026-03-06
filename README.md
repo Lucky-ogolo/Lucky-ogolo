@@ -42,6 +42,12 @@ This project analyzes polio vaccination campaign data from Ekiti State
 
 ⚒️Tools used: Pgadmin/postgres sql
 
+#  💼HR Analytics Workforce Overview 
+This project focuses on analyzing **employee workforce data** to understand organizational structure, workforce distribution, employee performance, and attrition trends.
+🔗[View Project Repository](https://github.com/Lucky-ogolo/HR-Analytical-Workforce-Overview.git)
+
+⚒️Tools used:Excel
+
 # 🩺 Ulcer Health Risk Analysis
 The Ulcer Health Risk Analysis project is a guided  focused on understanding health, behavioral, and clinical factors associated with ulcer severity and outcomes.
 🔗[View Project Repository](https://github.com/Lucky-ogolo/Ulcer-Health-Risk-Analysis.git)
