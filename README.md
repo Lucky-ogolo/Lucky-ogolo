@@ -36,6 +36,11 @@ This project analyzes brain tumor patients data to explore patterns
 
 ⚒️Tools used: Power BI
 
+# 💉Sexually Transmitted Diseases Dashboard
+This project focuses on analyzing and visualizing data related to **sexually transmitted diseases (STDs)** across different countries, regions, and demographics.
+🔗[View Project Repository](https://github.com/Lucky-ogolo/Sexually-Transmitted-Diseases-Dashboard.git)
+⚒️Tools used: Power BI
+
 # ⛑️WHO Ekiti State Polio Vaccination Data Analysis
 This project analyzes polio vaccination campaign data from Ekiti State
 🔗[View Project Repository](https://github.com/Lucky-ogolo/WHO-Polio-vaccination-Analysis.git)
