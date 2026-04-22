@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Lucky Ogolo- Data Analyst
 
 Welcome to my Github profile!
-I'm a Data Analyst with a growing passion for transforming raw data into meaningful insights that support smarter business decisions with tools like Excel,SQL and Power BI. I enjoy exploring data, and communicating insights clearly and effectively.
+I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, and Power BI across healthcare, retail and e-commerce projects. I hold 23 certifications through a DataCamp scholarship and have recently completed an HNG Data Analytics internship where I worked with real business datasets. I enjoy turning raw data into clear insights that help businesses make better decisions.
+
 
 
 ---
@@ -10,14 +11,14 @@ I'm a Data Analyst with a growing passion for transforming raw data into meaning
 
 - 🎓 Background in  B.Sc(Ed) in Computer Science – University Of Benin, Edo state,Nigeria
 - 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
-- 🛠️ Tools I Use: Excel, Power BI, SQL, and actively learning python 
+- 🛠️ Tools I Use: Excel, Power BI,Python, SQL, and actively learning python 
 - 🧠 strong interest and hands-on experience solving  real-world problems using data
 - 🌱 Continuously learning and improving my technical and  analytical skills 
 
 ## 🧰 My Toolkit
 | **Skillset** | **Tools** |
 |---------------|-----------|
-| Data Analysis | 	Excel, Power BI,SQL |
+| Data Analysis | 	Excel, Power BI,Python,SQL |
 | Data Visualization | Excel dashboards,Power BI |
 | Data Cleaning | Excel, Power Query |
 | Business Insights | Dashboards,KPI's, Reporting |
