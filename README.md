@@ -25,6 +25,16 @@ I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, a
 | Others |	GitHub, Google Sheets, Canva |
 --- 
 ## 🗃️Featured Projects
+   # ⚡HNG-Stage0-Electronic-Products-Analysis
+   This project was completed as part of the HNG Data Analytics Internship Stage 0 task. I explored a dataset of 10,000 electronic products to identify patterns in product availability, category distribution and brand performance using Excel.
+   🔗[View Project Repository](https://github.com/Lucky-ogolo/HNG-Stage0-Electronic-Products-Analysis.git)
+   ⚒️Tools used: Excel  
+
+   # 📑TradeZone-SQL-Analysis
+   This project was completed as part of the HNG Data Analytics Internship Stage 2 task. I worked with a PostgreSQL database for TradeZone, a Nigerian e-commerce platform, cleaning the data and answering 8 business questions to help leadership make informed decisions for the 2025 planning cycle.
+    🔗[View Project Repository](https://github.com/Lucky-ogolo/TradeZone-SQL-Analysis.git)
+    ⚒️Tools used: Pgadmin/postgres sql
+   
    # 🍻Susan's Bar Sales Performance
    This project analyzes **Susan’s Bar sales performance**, comparing business results between **2024 and 2025**
    🔗[View Project Repository](https://github.com/Lucky-ogolo/Susan-s-Bar-Sales-Performance.git)
@@ -36,6 +46,11 @@ This project analyzes brain tumor patients data to explore patterns
 🔗[View Project Repository](https://github.com/Lucky-ogolo/Brain-Tumor-Distribution-Analysis.git)
 
 ⚒️Tools used: Power BI
+
+# 🧹Data Cleaning & Title Optimization
+This project was completed as part of the HNG Data Analytics Internship Stage 1 task. I cleaned a raw marketing product dataset in Excel, resolving data quality issues and creating a new short_title feature for improved SEO and readability. 🔗[View Project Repository](https://github.com/Lucky-ogolo/HNG-Stage1-Data-Cleaning-Optimization.git)
+⚒️Tools used: Excel  
+
 
 # 💉Sexually Transmitted Diseases Dashboard
 This project focuses on analyzing and visualizing data related to **sexually transmitted diseases (STDs)** across different countries, regions, and demographics.
