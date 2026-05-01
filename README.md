@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Lucky Ogolo- Data Analyst
 
 Welcome to my Github profile!
-I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, and Power BI across healthcare, retail and e-commerce projects. I hold 23 certifications through a DataCamp scholarship and have recently completed an HNG Data Analytics internship where I worked with real business datasets. I enjoy turning raw data into clear insights that help businesses make better decisions.
+I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, and Power BI across healthcare, retail and e-commerce projects. I hold 23 certifications through a DataCamp scholarship and have recently took part in  HNG Data Analytics internship where I worked with real business datasets. I enjoy turning raw data into clear insights that help businesses make better decisions.
 
 
 
