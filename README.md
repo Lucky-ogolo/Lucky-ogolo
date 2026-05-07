@@ -35,6 +35,11 @@ I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, a
     🔗[View Project Repository](https://github.com/Lucky-ogolo/TradeZone-SQL-Analysis.git)
     ⚒️Tools used: Pgadmin/postgres sql
    
+   # Retail Sales Executive Growth Dashboard
+   An end-to-end Excel business intelligence project covering data cleaning, transformation, DAX measures, and an interactive executive dashboard built on a simulated retail sales dataset.
+   🔗[View Project Repository](https://github.com/Lucky-ogolo/Retail-sales-analysis.git)
+   ⚒️Tools used: Excel    
+   
    # 🍻Susan's Bar Sales Performance
    This project analyzes **Susan’s Bar sales performance**, comparing business results between **2024 and 2025**
    🔗[View Project Repository](https://github.com/Lucky-ogolo/Susan-s-Bar-Sales-Performance.git)
