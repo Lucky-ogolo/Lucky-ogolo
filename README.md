@@ -111,9 +111,9 @@ This repository contains a set of Excel-based practical projects designed to sho
  
 ## 🤝 Let’s Connect
   
-  - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
-  - 📧 🔗[Email](luuckyyyy@gmail.com) 
-  - 🌐 Portfolio: luckyogolo.my.canva.site
+  - 💼 🔗[LinkedIn](https://linkedin.com/in/lucky-ogolo)
+  - 📧 🔗[Email](ogololucky10@gmail.com) 
+  - 🌐 [Portfolio](https://luckyogolo.my.canva.site/)
 
 ---
 > *"Data is valuable , but insights is what  drives decisions."*
