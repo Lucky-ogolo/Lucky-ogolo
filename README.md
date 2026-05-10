@@ -116,7 +116,7 @@ This repository contains a set of Excel-based practical projects designed to sho
   - 🌐 [Portfolio](https://luckyogolo.my.canva.site/)
 
 ---
-> *"Data is valuable , but insights is what  drives decisions."*
+> *"Data is valuable , but insights are what  drives decisions."*
 
 
 <!--
