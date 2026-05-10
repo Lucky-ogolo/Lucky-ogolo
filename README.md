@@ -11,7 +11,7 @@ I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, a
 
 - 🎓 Background in  B.Sc(Ed) in Computer Science – University Of Benin, Edo state,Nigeria
 - 📊 Focused on Data Analytics, Business Intelligence, Insight Analyst and Visualization
-- 🛠️ Tools I Use: Excel, Power BI,Python, SQL, and actively learning python 
+- 🛠️ Tools I Use: Excel, Power BI,Python, SQL
 - 🧠 strong interest and hands-on experience solving  real-world problems using data
 - 🌱 Continuously learning and improving my technical and  analytical skills 
 
