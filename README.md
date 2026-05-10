@@ -39,7 +39,11 @@ I am an entry level Data Analyst with hands on experience in Excel,Python,SQL, a
    An end-to-end Excel business intelligence project covering data cleaning, transformation, DAX measures, and an interactive executive dashboard built on a simulated retail sales dataset.
    🔗[View Project Repository](https://github.com/Lucky-ogolo/Retail-sales-analysis.git)
    ⚒️Tools used: Excel    
-   
+
+   # Nothwind Global Sales Analysis & Dimensional Data Model
+   This project was completed as part of the HNG Data Analytics Internship Stage 3 task. Stage 3 consisted of two separate tasks designed to test both data visualization and data engineering skills. Both tasks were completed independently.
+   🔗[View Project Repository](https://github.com/Lucky-ogolo/HNG-Stage3-Northwind-Palladium.git)
+   ⚒️Tools used: Excel,PostgrsSQL,Powerpoint,Msword
    # 🍻Susan's Bar Sales Performance
    This project analyzes **Susan’s Bar sales performance**, comparing business results between **2024 and 2025**
    🔗[View Project Repository](https://github.com/Lucky-ogolo/Susan-s-Bar-Sales-Performance.git)
