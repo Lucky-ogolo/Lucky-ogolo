@@ -56,6 +56,11 @@ This project analyzes brain tumor patients data to explore patterns
 
 ⚒️Tools used: Power BI
 
+#HR Workforce Performance & Engagement Analytics Dashboard
+An end-to-end Excel analytics project built as part of the 30 Days Data Analytics Challenge. This project covers the full pipeline from data cleaning and transformation to KPI development and interactive dashboard design across three connected dashboards.
+🔗[View Project Repository](https://github.com/Lucky-ogolo/HR-Workforce-Performance-Engagement-Analytics-Dashboard.git)
+ ⚒️Tools used: Excel    
+ 
 # 🧹Data Cleaning & Title Optimization
 This project was completed as part of the HNG Data Analytics Internship Stage 1 task. I cleaned a raw marketing product dataset in Excel, resolving data quality issues and creating a new short_title feature for improved SEO and readability. 🔗[View Project Repository](https://github.com/Lucky-ogolo/HNG-Stage1-Data-Cleaning-Optimization.git)
 ⚒️Tools used: Excel  
