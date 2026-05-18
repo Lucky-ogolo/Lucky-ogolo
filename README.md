@@ -56,7 +56,7 @@ This project analyzes brain tumor patients data to explore patterns
 
 ⚒️Tools used: Power BI
 
-#HR Workforce Performance & Engagement Analytics Dashboard
+# HR Workforce Performance & Engagement Analytics Dashboard
 An end-to-end Excel analytics project built as part of the 30 Days Data Analytics Challenge. This project covers the full pipeline from data cleaning and transformation to KPI development and interactive dashboard design across three connected dashboards.
 🔗[View Project Repository](https://github.com/Lucky-ogolo/HR-Workforce-Performance-Engagement-Analytics-Dashboard.git)
  ⚒️Tools used: Excel    
